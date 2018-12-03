@@ -1,0 +1,10 @@
+{
+  "name": "simple",
+  "description": "Simple",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
