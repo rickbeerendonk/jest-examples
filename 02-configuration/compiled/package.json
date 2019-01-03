@@ -1,0 +1,12 @@
+{
+  "name": "simple",
+  "description": "Simple",
+  "scripts": {
+    "init": "jest --init",
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
