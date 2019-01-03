@@ -2,7 +2,8 @@
   "name": "simple",
   "description": "Simple",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-all": "jest --all"
   },
   "devDependencies": {
     "jest": "^23.6.0"
