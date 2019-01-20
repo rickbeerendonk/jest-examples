@@ -1,6 +1,8 @@
 {
-  "name": "simple",
-  "description": "Simple",
+  "name": "jest-configuration",
+  "description": "Jest Configuration",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
   "scripts": {
     "init": "jest --init",
     "test": "jest",
