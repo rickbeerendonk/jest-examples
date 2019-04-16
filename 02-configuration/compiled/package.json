@@ -9,6 +9,6 @@
     "test-all": "jest --all"
   },
   "devDependencies": {
-    "jest": "^24.0.0"
+    "jest": "^24.7.1"
   }
 }
