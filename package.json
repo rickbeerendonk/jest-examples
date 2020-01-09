@@ -1,0 +1,31 @@
+{
+  "name": "jest-examples",
+  "version": "1.0.0",
+  "description": "Examples for [Jest](https://jestjs.io/).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickbeerendonk/jest-examples.git"
+  },
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "bugs": {
+    "url": "https://github.com/rickbeerendonk/jest-examples/issues"
+  },
+  "homepage": "https://github.com/rickbeerendonk/jest-examples#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run validate"
+    }
+  },
+  "scripts": {
+    "clean": "rimraf node_modules",
+    "prettier": "prettier --list-different '**/*.{json,js,md,ts}'",
+    "prettier-fix": "prettier --write '**/*.{json,js,md,ts}'",
+    "validate": "npm run prettier"
+  },
+  "devDependencies": {
+    "husky": "4.0.3",
+    "prettier": "1.19.1"
+  },
+  "dependencies": {}
+}
