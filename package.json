@@ -18,7 +18,6 @@
     }
   },
   "scripts": {
-    "clean": "rimraf node_modules",
     "prettier": "prettier --list-different '**/*.{json,js,md,ts}'",
     "prettier-fix": "prettier --write '**/*.{json,js,md,ts}'",
     "validate": "npm run prettier"
