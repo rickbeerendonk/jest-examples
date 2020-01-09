@@ -1,0 +1,13 @@
+{
+  "name": "jest-matchers-not",
+  "description": "Jest Matchers: not",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
