@@ -1,0 +1,13 @@
+{
+  "name": "jest-matchers-tobe",
+  "description": "Jest Matchers: toBe",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
