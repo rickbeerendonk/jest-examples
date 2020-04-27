@@ -1,0 +1,13 @@
+{
+  "name": "jest-matchers-tobeundefined",
+  "description": "Jest Matchers: toBeUndefined",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "25.2.3"
+  }
+}
