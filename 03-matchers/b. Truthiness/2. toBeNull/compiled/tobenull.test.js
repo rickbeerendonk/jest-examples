@@ -5,18 +5,18 @@ test('null must be null', () => {
   expect(null).toBeNull();
 });
 
-test('undefined must not to be null', () => {
+test('undefined must not be null', () => {
   expect(undefined).not.toBeNull();
 });
 
-test('false must not to be null', () => {
+test('false must not be null', () => {
   expect(false).not.toBeNull();
 });
 
-test('Zero must not to be null', () => {
+test('Zero must not be null', () => {
   expect(0).not.toBeNull();
 });
 
-test('Empty string must not to be null', () => {
+test('Empty string must not be null', () => {
   expect('').not.toBeNull();
 });
