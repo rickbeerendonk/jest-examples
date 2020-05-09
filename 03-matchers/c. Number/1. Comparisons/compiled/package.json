@@ -1,0 +1,13 @@
+{
+  "name": "jest-matchers-number-comparisons",
+  "description": "Jest Matchers: Number Comparisons",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "25.2.3"
+  }
+}
