@@ -23,8 +23,8 @@
     "validate": "npm run prettier"
   },
   "devDependencies": {
-    "husky": "4.2.3",
-    "prettier": "2.0.2"
+    "husky": "4.2.5",
+    "prettier": "2.0.5"
   },
   "dependencies": {}
 }

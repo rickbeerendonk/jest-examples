@@ -8,6 +8,6 @@
     "test-all": "jest --all"
   },
   "devDependencies": {
-    "jest": "25.2.3"
+    "jest": "26.0.1"
   }
 }
