@@ -1,0 +1,13 @@
+{
+  "name": "jest-matchers-string-matches",
+  "description": "Jest Matchers: String Matches",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "26.0.1"
+  }
+}
