@@ -1,9 +1,7 @@
 /*! European Union Public License version 1.2 !*/
 /*! Copyright © 2021 Rick Beerendonk          !*/
 
-function foo(initialValue, callbackFn) {
-  return callbackFn(initialValue);
-}
+const foo = require('./callback');
 
 test('Callback is called with correct value and result is used', () => {
   // Create mock
