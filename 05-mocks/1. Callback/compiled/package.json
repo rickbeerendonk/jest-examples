@@ -1,0 +1,13 @@
+{
+  "name": "jest-mocks-callback",
+  "description": "Jest Mocks: Callback",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "27.2.5"
+  }
+}
