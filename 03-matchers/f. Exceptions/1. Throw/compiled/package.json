@@ -1,0 +1,14 @@
+{
+  "name": "jest-matchers-exceptions",
+  "description": "Jest Matchers: Exceptions",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "main": "throw.js",
+  "scripts": {
+    "test": "jest",
+    "test-all": "jest --all"
+  },
+  "devDependencies": {
+    "jest": "29.3.1"
+  }
+}
