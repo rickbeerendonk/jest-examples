@@ -1,0 +1,13 @@
+{
+  "name": "jest-simple",
+  "description": "Jest Simple",
+  "author": "Rick Beerendonk",
+  "license": "EUPL-1.2",
+  "scripts": {
+    "test": "jest --coverage",
+    "test-all": "jest --all --coverage"
+  },
+  "devDependencies": {
+    "jest": "29.3.1"
+  }
+}
